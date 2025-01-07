@@ -87,4 +87,8 @@
   ```bash
   sudo ufw enable
   ```
+  
+### **About the Instructor**
 
+Ashish Singh is a tech enthusiast specializing in system design, backend development, Go, DevOps, and cloud technologies. Follow along to level up your technical skills!
+Follow me on [Social Media](https://ashishsingh.in/social-media/)
